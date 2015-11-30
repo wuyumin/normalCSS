@@ -1,0 +1,10 @@
+@charset "utf-8";
+*{margin:0 auto;padding:0;}
+body{background:#fff;}
+img{border:none;}
+a{text-decoration:none;}
+ul{list-style:none;}
+h3{font-size:100%;font-weight:normal;}
+.clear:after{display:block;clear:both;content:"";visibility:hidden;height:0;}
+.clear{zoom:1;}
+#wrap{max-width:640px;}
