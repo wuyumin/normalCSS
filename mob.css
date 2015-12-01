@@ -1,5 +1,6 @@
 @charset "utf-8";
 *{margin:0 auto;padding:0;}
+html{font-size:14px;}
 body{background:#fff;}
 img{border:none;}
 a{text-decoration:none;}
