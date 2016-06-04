@@ -1,11 +1,11 @@
 @charset "utf-8";
 *{margin:0 auto;padding:0;}
 html{-webkit-text-size-adjust:none;font-size:14px;}
-body{background:#fff;color:#333;font-family:"helvetica neue",helvetica,arial,sans-serif;}
+body{background:#e6e6e6;color:#333;font-family:"helvetica neue",helvetica,arial,sans-serif;}
 img{border:none;}
 a{text-decoration:none;}
 ul{list-style:none;}
 h3{font-size:100%;font-weight:normal;}
 .clear:after{display:block;clear:both;content:"";visibility:hidden;height:0;}
 .clear{zoom:1;}
-#wrap{max-width:640px;}
+#wrap{max-width:640px;background:#fff;}
